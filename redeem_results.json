@@ -42,5 +42,12 @@
       "raw_msg": "RECEIVED",
       "timestamp": "2026-07-25T20:11:24.871027+00:00"
     }
+  },
+  "nwkJ6AXK6": {
+    "77336214": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-25T20:18:19.072473+00:00"
+    }
   }
 }
