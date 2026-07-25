@@ -99,5 +99,12 @@
       "raw_msg": "USED",
       "timestamp": "2026-07-25T20:45:19.352841+00:00"
     }
+  },
+  "KS0715": {
+    "77336214": {
+      "status_class": "code_expired",
+      "raw_msg": "TIME ERROR",
+      "timestamp": "2026-07-25T21:05:58.898645+00:00"
+    }
   }
 }
