@@ -699,6 +699,11 @@
       "status_class": "user_invalid",
       "raw_msg": "USER INFO ERROR",
       "timestamp": "2026-07-25T21:15:47.785516+00:00"
+    },
+    "85594434": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-07-25T21:15:51.869614+00:00"
     }
   },
   "VIP777": {
