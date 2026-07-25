@@ -659,6 +659,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "RECEIVED",
       "timestamp": "2026-07-25T21:15:14.683339+00:00"
+    },
+    "78974367": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-07-25T21:15:18.899674+00:00"
     }
   },
   "VIP777": {
