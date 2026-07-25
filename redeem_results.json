@@ -114,6 +114,11 @@
       "status_class": "user_invalid",
       "raw_msg": "USER INFO ERROR",
       "timestamp": "2026-07-25T21:07:49.991908+00:00"
+    },
+    "69238752": {
+      "status_class": "user_invalid",
+      "raw_msg": "USER INFO ERROR",
+      "timestamp": "2026-07-25T21:07:53.830485+00:00"
     }
   },
   "VIP777": {
