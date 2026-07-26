@@ -2318,6 +2318,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-26T15:43:47.647024+00:00"
+    },
+    "92924924": {
+      "status_class": "user_invalid",
+      "raw_msg": "USER INFO ERROR",
+      "timestamp": "2026-07-26T15:43:52.760931+00:00"
     }
   },
   "KS0715": {
