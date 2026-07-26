@@ -1953,6 +1953,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-26T15:37:43.676710+00:00"
+    },
+    "75943814": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-26T15:37:48.148999+00:00"
     }
   },
   "KS0715": {
