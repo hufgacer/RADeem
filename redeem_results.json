@@ -1483,6 +1483,11 @@
       "status_class": "user_invalid",
       "raw_msg": "USER INFO ERROR",
       "timestamp": "2026-07-26T15:29:41.054469+00:00"
+    },
+    "84049838": {
+      "status_class": "user_invalid",
+      "raw_msg": "USER INFO ERROR",
+      "timestamp": "2026-07-26T15:29:49.382427+00:00"
     }
   },
   "KS0715": {
