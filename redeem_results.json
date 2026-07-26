@@ -1738,6 +1738,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-26T15:34:12.231230+00:00"
+    },
+    "90473236": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-26T15:34:16.960072+00:00"
     }
   },
   "KS0715": {
