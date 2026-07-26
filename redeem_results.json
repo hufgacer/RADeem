@@ -2278,6 +2278,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-26T15:43:06.821936+00:00"
+    },
+    "122875309": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-26T15:43:11.561040+00:00"
     }
   },
   "KS0715": {
