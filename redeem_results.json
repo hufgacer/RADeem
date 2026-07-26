@@ -1256,6 +1256,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "RECEIVED",
       "timestamp": "2026-07-26T08:11:12.888085+00:00"
+    },
+    "93087234": {
+      "status_class": "success",
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-07-26T08:14:09.324377+00:00"
     }
   },
   "nwkJ6AXK6": {
