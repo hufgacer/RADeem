@@ -2003,6 +2003,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-26T15:38:30.858502+00:00"
+    },
+    "79056735": {
+      "status_class": "user_invalid",
+      "raw_msg": "USER INFO ERROR",
+      "timestamp": "2026-07-26T15:38:35.992428+00:00"
     }
   },
   "KS0715": {
