@@ -2053,6 +2053,11 @@
       "status_class": "user_invalid",
       "raw_msg": "USER INFO ERROR",
       "timestamp": "2026-07-26T15:39:27.427387+00:00"
+    },
+    "80307789": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-26T15:39:35.678160+00:00"
     }
   },
   "KS0715": {
