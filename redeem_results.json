@@ -2013,6 +2013,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-26T15:38:45.402049+00:00"
+    },
+    "141486708": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-26T15:38:50.535403+00:00"
     }
   },
   "KS0715": {
