@@ -1928,6 +1928,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-26T15:37:15.990290+00:00"
+    },
+    "76418852": {
+      "status_class": "user_invalid",
+      "raw_msg": "USER INFO ERROR",
+      "timestamp": "2026-07-26T15:37:20.561893+00:00"
     }
   },
   "KS0715": {
