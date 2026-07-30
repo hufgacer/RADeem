@@ -6013,6 +6013,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:15:31.486967+00:00"
+    },
+    "90947746": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:15:37.942415+00:00"
     }
   }
 }
