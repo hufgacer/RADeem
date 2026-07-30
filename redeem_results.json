@@ -6023,6 +6023,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:15:44.377146+00:00"
+    },
+    "88703588": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:15:49.761469+00:00"
     }
   }
 }
