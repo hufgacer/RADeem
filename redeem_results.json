@@ -3127,6 +3127,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T10:27:52.176772+00:00"
+    },
+    "78679768": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T10:27:57.388973+00:00"
     }
   }
 }
