@@ -3412,6 +3412,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T10:32:36.760066+00:00"
+    },
+    "89097043": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T10:32:41.723353+00:00"
     }
   }
 }
