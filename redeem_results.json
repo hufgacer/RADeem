@@ -6123,6 +6123,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:17:33.937068+00:00"
+    },
+    "84213677": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:17:39.813950+00:00"
     }
   }
 }
