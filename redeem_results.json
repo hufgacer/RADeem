@@ -5893,6 +5893,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:13:19.060860+00:00"
+    },
+    "88424903": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:13:24.435126+00:00"
     }
   }
 }
