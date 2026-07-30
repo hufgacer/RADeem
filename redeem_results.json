@@ -6038,6 +6038,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:16:01.842839+00:00"
+    },
+    "78630486": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:16:06.875938+00:00"
     }
   }
 }
