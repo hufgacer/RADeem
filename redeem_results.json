@@ -6243,6 +6243,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:19:50.372102+00:00"
+    },
+    "79171071": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:19:55.500265+00:00"
     }
   }
 }
