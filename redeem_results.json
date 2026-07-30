@@ -6443,6 +6443,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:23:35.474240+00:00"
+    },
+    "72715730": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:23:40.843690+00:00"
     }
   }
 }
