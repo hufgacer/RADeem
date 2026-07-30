@@ -2917,6 +2917,11 @@
       "status_class": "failed",
       "raw_msg": "HTTP 500",
       "timestamp": "2026-07-30T10:23:46.931963+00:00"
+    },
+    "77139756": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T10:23:51.456953+00:00"
     }
   }
 }
