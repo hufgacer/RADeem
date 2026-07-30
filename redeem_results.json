@@ -4099,6 +4099,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T12:30:29.214592+00:00"
+    },
+    "76008787": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T12:30:34.650616+00:00"
     }
   }
 }
