@@ -4044,6 +4044,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T12:29:32.732127+00:00"
+    },
+    "77008714": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T12:29:37.451674+00:00"
     }
   }
 }
