@@ -4670,5 +4670,12 @@
       "raw_msg": "USED",
       "timestamp": "2026-07-30T12:40:25.297160+00:00"
     }
+  },
+  "847QgrmKx": {
+    "77336214": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T13:51:27.470619+00:00"
+    }
   }
 }
