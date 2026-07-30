@@ -6018,6 +6018,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:15:37.942415+00:00"
+    },
+    "89670016": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:15:44.377146+00:00"
     }
   }
 }
