@@ -6313,6 +6313,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:21:10.574174+00:00"
+    },
+    "78630614": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-07-30T14:21:16.602157+00:00"
     }
   }
 }
