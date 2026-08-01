@@ -7540,6 +7540,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-08-01T03:03:54.885744+00:00"
+    },
+    "72715730": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-08-01T03:04:00.203502+00:00"
     }
   }
 }
