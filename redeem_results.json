@@ -7855,6 +7855,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-08-01T03:09:39.855403+00:00"
+    },
+    "88868062": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-08-01T03:09:44.488944+00:00"
     }
   }
 }
