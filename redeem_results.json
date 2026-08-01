@@ -6864,5 +6864,12 @@
       "raw_msg": "USED",
       "timestamp": "2026-07-30T14:31:24.756125+00:00"
     }
+  },
+  "KS0803": {
+    "77336214": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-08-01T02:51:26.500270+00:00"
+    }
   }
 }
