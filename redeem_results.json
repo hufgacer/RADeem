@@ -8077,6 +8077,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-08-01T16:53:22.001471+00:00"
+    },
+    "91079421": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-01T16:53:27.117752+00:00"
     }
   }
 }
