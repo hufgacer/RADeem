@@ -8012,6 +8012,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-08-01T16:52:13.220668+00:00"
+    },
+    "88867588": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-01T16:52:18.291827+00:00"
     }
   }
 }
