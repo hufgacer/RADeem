@@ -45,7 +45,9 @@
     "added_by": "scraper",
     "added_at": "2026-08-01T02:51:20.008949+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "expired",
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-08-04T22:21:10.419380+00:00"
   },
   "dwmjyky44": {
     "added_by": "scraper",
