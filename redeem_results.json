@@ -1016,9 +1016,9 @@
       "timestamp": "2026-07-25T21:20:19.101999+00:00"
     },
     "139236636": {
-      "status_class": "already_redeemed",
-      "raw_msg": "RECEIVED",
-      "timestamp": "2026-07-25T21:20:23.380536+00:00"
+      "status_class": "success",
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-08-04T22:20:04.698200+00:00"
     },
     "131748637": {
       "status_class": "already_redeemed",
@@ -1271,6 +1271,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "RECEIVED",
       "timestamp": "2026-07-26T10:09:45.809493+00:00"
+    },
+    "139236636": {
+      "status_class": "success",
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-08-04T22:20:27.424474+00:00"
     }
   },
   "nwkJ6AXK6": {
@@ -2327,7 +2332,7 @@
     "139236636": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-07-26T15:44:01.255572+00:00"
+      "timestamp": "2026-08-04T22:20:46.457505+00:00"
     },
     "131748637": {
       "status_class": "already_redeemed",
@@ -3588,7 +3593,7 @@
     "88949458": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-08-04T22:19:57.277294+00:00"
+      "timestamp": "2026-07-30T12:21:43.092202+00:00"
     },
     "76402332": {
       "status_class": "already_redeemed",
@@ -4498,7 +4503,7 @@
     "139236636": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-07-30T12:37:25.679817+00:00"
+      "timestamp": "2026-08-04T22:20:54.578423+00:00"
     },
     "131748637": {
       "status_class": "already_redeemed",
@@ -4685,7 +4690,7 @@
     "88949458": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-08-04T22:20:38.487391+00:00"
+      "timestamp": "2026-07-30T13:51:37.147845+00:00"
     },
     "76402332": {
       "status_class": "already_redeemed",
@@ -5782,7 +5787,7 @@
     "88949458": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-08-04T22:20:12.167603+00:00"
+      "timestamp": "2026-07-30T14:11:16.586038+00:00"
     },
     "76402332": {
       "status_class": "already_redeemed",
