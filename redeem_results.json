@@ -11215,5 +11215,12 @@
       "raw_msg": "USED",
       "timestamp": "2026-08-08T01:29:13.855743+00:00"
     }
+  },
+  "Y4jx5z6Ke": {
+    "91669964": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-08T01:29:16.479871+00:00"
+    }
   }
 }
