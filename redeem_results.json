@@ -11233,6 +11233,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-08-08T02:10:28.974601+00:00"
+    },
+    "89080004": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-08-08T03:44:45.020985+00:00"
     }
   }
 }
