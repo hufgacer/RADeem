@@ -11222,5 +11222,12 @@
       "raw_msg": "USED",
       "timestamp": "2026-08-08T01:29:16.479871+00:00"
     }
+  },
+  "54N25Ny4q": {
+    "91669964": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-08-08T01:29:19.023089+00:00"
+    }
   }
 }
