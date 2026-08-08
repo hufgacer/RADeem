@@ -21,9 +21,9 @@
       "timestamp": "2026-07-25T21:06:38.505800+00:00"
     },
     "89080004": {
-      "status_class": "already_redeemed",
-      "raw_msg": "RECEIVED",
-      "timestamp": "2026-07-25T21:06:42.193203+00:00"
+      "status_class": "success",
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-08-08T03:44:20.603621+00:00"
     },
     "89227463": {
       "status_class": "already_redeemed",
