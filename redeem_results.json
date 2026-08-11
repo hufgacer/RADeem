@@ -11333,11 +11333,6 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-08-09T04:10:30.259850+00:00"
-    },
-    "88162819": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-08-11T12:20:38.348670+00:00"
     }
   },
   "HAPPYCATDAY": {
@@ -12445,6 +12440,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "RECEIVED",
       "timestamp": "2026-08-09T04:10:39.520897+00:00"
+    },
+    "88162819": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-08-11T12:20:41.642967+00:00"
     }
   },
   "KS0810": {
