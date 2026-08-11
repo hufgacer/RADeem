@@ -13726,9 +13726,9 @@
       "timestamp": "2026-08-11T12:12:30.946635+00:00"
     },
     "89948951": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-08-11T12:33:22.134730+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-08-11T13:10:55.985462+00:00"
     },
     "88785607": {
       "status_class": "success",
@@ -14621,9 +14621,9 @@
       "timestamp": "2026-08-11T12:19:53.342608+00:00"
     },
     "91293408": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-08-11T12:28:42.984849+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-08-11T13:10:55.985462+00:00"
     },
     "91588383": {
       "status_class": "success",
