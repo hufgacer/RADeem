@@ -12392,9 +12392,9 @@
       "timestamp": "2026-08-08T12:18:19.317204+00:00"
     },
     "85673478": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-08-12T11:25:17.089021+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-08-12T12:10:28.680838+00:00"
     },
     "91833822": {
       "status_class": "success",
