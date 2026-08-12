@@ -10089,9 +10089,9 @@
       "timestamp": "2026-08-01T17:08:56.827727+00:00"
     },
     "85673478": {
-      "status_class": "already_redeemed",
-      "raw_msg": "USED",
-      "timestamp": "2026-08-01T17:09:01.919920+00:00"
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-08-12T11:24:13.720708+00:00"
     },
     "91833822": {
       "status_class": "already_redeemed",
