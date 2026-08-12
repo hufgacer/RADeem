@@ -1116,9 +1116,9 @@
       "timestamp": "2026-07-25T21:22:13.109379+00:00"
     },
     "85673478": {
-      "status_class": "success",
-      "raw_msg": "SAME TYPE EXCHANGE",
-      "timestamp": "2026-08-12T11:23:53.449436+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-08-12T11:23:55.829310+00:00"
     },
     "91833822": {
       "status_class": "already_redeemed",
