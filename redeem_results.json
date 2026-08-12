@@ -11331,6 +11331,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-08-11T12:33:12.290009+00:00"
+    },
+    "85673478": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-08-12T11:24:18.622783+00:00"
     }
   },
   "54N25Ny4q": {
