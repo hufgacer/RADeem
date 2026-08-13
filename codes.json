@@ -144,5 +144,11 @@
     "added_at": "2026-08-12T17:10:18.052303+00:00",
     "target_discord_ids": null,
     "status": "active"
+  },
+  "JP26SUMMER": {
+    "added_by": "scraper",
+    "added_at": "2026-08-13T09:40:14.252565+00:00",
+    "target_discord_ids": null,
+    "status": "active"
   }
 }
