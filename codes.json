@@ -60,7 +60,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-06T05:05:02.782394+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "Y4jx5z6Ke": {
     "added_by": "scraper",
