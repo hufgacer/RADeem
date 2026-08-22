@@ -736,9 +736,9 @@
       "timestamp": "2026-07-25T21:16:18.261612+00:00"
     },
     "79597451": {
-      "status_class": "user_invalid",
-      "raw_msg": "USER INFO ERROR",
-      "timestamp": "2026-07-25T21:16:24.242988+00:00"
+      "status_class": "success",
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-08-22T11:36:15.923105+00:00"
     },
     "78728557": {
       "status_class": "user_invalid",
