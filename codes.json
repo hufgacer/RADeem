@@ -87,7 +87,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-10T06:40:15.862281+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "OFFICIALSTORE08011": {
     "added_by": "scraper",
