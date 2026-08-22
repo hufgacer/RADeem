@@ -96,7 +96,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-11T12:10:31.747566+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "Community": {
     "added_by": "scraper",
