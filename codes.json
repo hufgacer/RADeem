@@ -80,7 +80,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-08T12:40:15.714971+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "KS0810": {
     "added_by": "scraper",
