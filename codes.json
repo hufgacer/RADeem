@@ -31,7 +31,8 @@
     "added_by": "scraper",
     "added_at": "2026-07-30T12:21:20.144976+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "X43Gxb246": {
     "added_by": "scraper",
