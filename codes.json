@@ -112,7 +112,9 @@
     "added_by": "scraper",
     "added_at": "2026-08-12T17:10:18.051330+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "expired",
+    "expired_reason": "CDK NOT FOUND",
+    "expired_at": "2026-08-22T11:26:36.909125+00:00"
   },
   "Blog": {
     "added_by": "scraper",
