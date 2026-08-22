@@ -19135,5 +19135,12 @@
       "raw_msg": "CDK NOT FOUND",
       "timestamp": "2026-08-22T11:26:10.519310+00:00"
     }
+  },
+  "Changelog": {
+    "77336214": {
+      "status_class": "code_expired",
+      "raw_msg": "CDK NOT FOUND",
+      "timestamp": "2026-08-22T11:26:20.308899+00:00"
+    }
   }
 }
