@@ -58,7 +58,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-01T16:51:20.693574+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "G4E8Xzzwe": {
     "added_by": "scraper",
