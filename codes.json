@@ -88,8 +88,10 @@
     "added_by": "scraper",
     "added_at": "2026-08-08T12:40:15.714971+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-08-22T12:28:03.742637+00:00"
   },
   "KS0810": {
     "added_by": "scraper",
