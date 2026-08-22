@@ -19163,5 +19163,12 @@
       "raw_msg": "CDK NOT FOUND",
       "timestamp": "2026-08-22T11:26:47.785256+00:00"
     }
+  },
+  "Database": {
+    "77336214": {
+      "status_class": "code_expired",
+      "raw_msg": "CDK NOT FOUND",
+      "timestamp": "2026-08-22T11:26:57.435114+00:00"
+    }
   }
 }
