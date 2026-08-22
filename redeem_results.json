@@ -21381,5 +21381,107 @@
       "raw_msg": "CDK NOT FOUND",
       "timestamp": "2026-08-22T11:36:50.963332+00:00"
     }
+  },
+  "bwDlygw66": {
+    "77336214": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "88457661": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "88949458": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "76402332": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "89080004": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "89227463": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "89147224": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "90702018": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "89063540": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "86704006": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "88867588": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "90112270": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "89162120": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "84328377": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "91062767": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "91603778": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "88506838": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "88556192": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.965939+00:00"
+    },
+    "85442507": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.966921+00:00"
+    },
+    "91783271": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-08-22T11:53:45.966921+00:00"
+    }
   }
 }
