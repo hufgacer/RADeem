@@ -174,7 +174,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-13T09:40:14.252565+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "bwDlygw66": {
     "added_by": "scraper",
