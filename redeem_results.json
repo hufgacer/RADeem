@@ -18046,5 +18046,12 @@
       "raw_msg": "SUCCESS",
       "timestamp": "2026-08-22T11:12:59.121135+00:00"
     }
+  },
+  "2026": {
+    "77336214": {
+      "status_class": "code_expired",
+      "raw_msg": "CDK NOT FOUND",
+      "timestamp": "2026-08-22T11:17:36.292696+00:00"
+    }
   }
 }
