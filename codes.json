@@ -147,7 +147,8 @@
     "target_discord_ids": null,
     "status": "expired",
     "expired_reason": "CDK NOT FOUND",
-    "expired_at": "2026-08-22T11:26:45.989869+00:00"
+    "expired_at": "2026-08-22T11:26:45.989869+00:00",
+    "redeem_attempted": true
   },
   "Resources": {
     "added_by": "scraper",
