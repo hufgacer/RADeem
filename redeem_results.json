@@ -17762,72 +17762,72 @@
     "124300230": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "88572432": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "101991413": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "110650063": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "91636578": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "88441280": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "88998012": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "122875309": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "88293420": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "265145022": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "90751250": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:22:31.887459+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "253129730": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "260179006": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "91586689": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "92013189": {
       "status_class": "success",
@@ -17837,17 +17837,17 @@
     "139236636": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "131748637": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "260433665": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "89097043": {
       "status_class": "success",
@@ -17857,12 +17857,12 @@
     "97873445": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "90671302": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "91767032": {
       "status_class": "already_redeemed",
@@ -17872,7 +17872,7 @@
     "96190971": {
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T10:23:22.843778+00:00"
+      "timestamp": "2026-08-22T11:43:46.876204+00:00"
     },
     "88080627": {
       "status_class": "not_eligible",
