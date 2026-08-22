@@ -184,7 +184,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-22T02:20:59.130415+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "VIP0822": {
     "added_by": "scraper",
