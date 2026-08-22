@@ -194,7 +194,8 @@
     "added_by": "scraper",
     "added_at": "2026-08-14T10:10:29.678954+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   },
   "FB2500KT": {
     "added_by": "scraper",
