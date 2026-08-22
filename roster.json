@@ -1,45 +1,52 @@
 {
   "77336214": {
-    "name": "RadSaw Pew Pew",
+    "name": "RadSaw デ pewpew",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:18:12.104708+00:00"
+    "added_at": "2026-07-25T20:18:12.104708+00:00",
+    "alliance": "TKD"
   },
   "88457661": {
-    "name": "Luna Silverwolf",
+    "name": "Luna Silverwolf",
     "kid": "579",
     "discord_id": "354782392742969345",
-    "added_at": "2026-07-25T20:05:49.943623+00:00"
+    "added_at": "2026-07-25T20:05:49.943623+00:00",
+    "alliance": "TKD"
   },
   "88949458": {
-    "name": "sunshinEVE",
+    "name": "CrazyEve",
     "kid": "579",
     "discord_id": "1339270527717474407",
-    "added_at": "2026-08-04T22:19:05.292719+00:00"
+    "added_at": "2026-08-04T22:19:05.292719+00:00",
+    "alliance": "TKD"
   },
   "76402332": {
-    "name": "Pew Pew KingRiku",
+    "name": "Pew Pew KingRiku",
     "kid": "579",
     "discord_id": "443813975323443210",
-    "added_at": "2026-07-25T20:23:21.265817+00:00"
+    "added_at": "2026-07-25T20:23:21.265817+00:00",
+    "alliance": "TKD"
   },
   "89080004": {
     "name": "alaskanaugust",
     "kid": "579",
     "discord_id": "756020941032783882",
-    "added_at": "2026-08-08T03:44:17.205705+00:00"
+    "added_at": "2026-08-08T03:44:17.205705+00:00",
+    "alliance": "TKD"
   },
   "89227463": {
     "name": "Lady_WAR",
     "kid": "579",
     "discord_id": "1393665594628247612",
-    "added_at": "2026-07-25T20:41:17.986672+00:00"
+    "added_at": "2026-07-25T20:41:17.986672+00:00",
+    "alliance": "TKD"
   },
   "89147224": {
-    "name": "The Feniks",
+    "name": "The Feniks",
     "kid": "579",
     "discord_id": "1395422887917387786",
-    "added_at": "2026-07-30T10:35:28.494967+00:00"
+    "added_at": "2026-07-30T10:35:28.494967+00:00",
+    "alliance": "TKD"
   },
   "90702018": {
     "name": "Feuerfaust Ace",
@@ -75,19 +82,22 @@
     "name": "Dog God",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "84328377": {
     "name": "NepX",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91062767": {
-    "name": "Extreme",
+    "name": "ExtremePrime",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91603778": {
     "name": "RIPTheGhost",
@@ -105,13 +115,15 @@
     "name": "Supa FUPA",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "85442507": {
     "name": "Hero",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91783271": {
     "name": "King Blake",
@@ -123,19 +135,22 @@
     "name": "亗 JAMES 亗",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "88539711": {
     "name": "KAMIKAZE",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "88260681": {
     "name": "Ohmylord",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91079421": {
     "name": "Zea Hulk",
@@ -162,10 +177,11 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00"
   },
   "89948951": {
-    "name": "● WARSKYTHE ●",
+    "name": "● WARSKYTHE ●",
     "kid": "579",
     "discord_id": "661390782363729941",
-    "added_at": "2026-08-11T12:32:45.549596+00:00"
+    "added_at": "2026-08-11T12:32:45.549596+00:00",
+    "alliance": "TKD"
   },
   "88785607": {
     "name": "huckleberry",
@@ -183,13 +199,15 @@
     "name": "Bing Chilling",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91980471": {
-    "name": "IceCream",
+    "name": "Pervy Froyo",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91512761": {
     "name": "RMen",
@@ -213,19 +231,22 @@
     "name": "Dora",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "88605546": {
     "name": "Mohammed300",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "84524928": {
     "name": "Mgr Amanaar",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "92111312": {
     "name": "jas",
@@ -255,37 +276,43 @@
     "name": "King Mac",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "90620592": {
     "name": "ᜎᜓᜀᜁ",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91832957": {
     "name": "JuKa",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "88736324": {
-    "name": "StoneCold Claw",
+    "name": "Stone Cold Moose",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "90914898": {
     "name": "Lord Blackadder",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "86130646": {
     "name": "Lord of Shadows",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "90882339": {
     "name": "PJD",
@@ -294,10 +321,11 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00"
   },
   "90947746": {
-    "name": "Hebilicious",
+    "name": "Hebby Hen",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "89670016": {
     "name": "TheDangeler",
@@ -357,13 +385,15 @@
     "name": "MORPHEEN",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91734887": {
     "name": "Audrey73",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "77058049": {
     "name": "MissBraveheart",
@@ -381,7 +411,8 @@
     "name": "Unya",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "77450932": {
     "name": "Cirdecw",
@@ -393,7 +424,8 @@
     "name": "RagingReprobate",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91963581": {
     "name": "Zagarbaath",
@@ -423,19 +455,22 @@
     "name": "AarKay",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "84213677": {
     "name": "Xanatos",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "89735992": {
     "name": "何保羅",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91930637": {
     "name": "Dolphin",
@@ -453,7 +488,8 @@
     "name": "Mooner",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "89489689": {
     "name": "Sheleesi",
@@ -483,19 +519,22 @@
     "name": "Maximiliou",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91013790": {
-    "name": "Fluffy Ice",
+    "name": "Fluffyley",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "88621448": {
-    "name": "PsyNubs",
+    "name": "Nubbie",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "76025483": {
     "name": "SirPeace",
@@ -591,7 +630,8 @@
     "name": "Glendys",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "79335125": {
     "name": "Echo & Bunnymen",
@@ -837,7 +877,8 @@
     "name": "Ezz",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "151825543": {
     "name": "The Eraserheads",
@@ -846,10 +887,11 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00"
   },
   "99495150": {
-    "name": "Darth Licker",
+    "name": "Kisuke",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "160037542": {
     "name": "Mini Riku",
@@ -858,10 +900,11 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00"
   },
   "89606538": {
-    "name": "Cassiopella",
+    "name": "cassiopella",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "104611839": {
     "name": "ⓅⓊⓇⓅⓁⒺ",
@@ -1098,10 +1141,11 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00"
   },
   "92013189": {
-    "name": "Stallion Bee",
+    "name": "MayBee",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "139236636": {
     "name": "LitChick",
@@ -1122,16 +1166,18 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00"
   },
   "89097043": {
-    "name": "Dixie Normous",
+    "name": "Gumby TeaBaggeඞr",
     "kid": "579",
     "discord_id": "1416887172891672607",
-    "added_at": "2026-08-11T12:26:29.972744+00:00"
+    "added_at": "2026-08-11T12:26:29.972744+00:00",
+    "alliance": "TKD"
   },
   "97873445": {
-    "name": "༻Dracarysᥫ᭡༺",
+    "name": "༻Dracarys᭡༺",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "90671302": {
     "name": "moath",
@@ -1155,7 +1201,8 @@
     "name": "Lord Kiki",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "229629508": {
     "name": "The Doc",
@@ -1176,22 +1223,25 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00"
   },
   "84404558": {
-    "name": "Gin",
+    "name": "ɢɪɴꜰurby",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "91719591": {
     "name": "Resō 한칼",
     "kid": "579",
     "discord_id": "1396447098450477066",
-    "added_at": "2026-07-26T08:08:12.156463+00:00"
+    "added_at": "2026-07-26T08:08:12.156463+00:00",
+    "alliance": "TKD"
   },
   "88868062": {
     "name": "么 ʙʟᴀᴄᴋʀᴀɪɴ",
     "kid": "579",
     "discord_id": "1396447098450477066",
-    "added_at": "2026-07-26T08:23:26.184253+00:00"
+    "added_at": "2026-07-26T08:23:26.184253+00:00",
+    "alliance": "TKD"
   },
   "100434250": {
     "name": "༒C L O W N༒",
@@ -1203,31 +1253,36 @@
     "name": "Terrakagari",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "89097489": {
-    "name": "BLACKWITCH",
+    "name": "SOPHIEXGhost",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "88229789": {
     "name": "Dauerbrenner",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "85673478": {
-    "name": "Breizh",
+    "name": "Breizh ~○°~",
     "kid": "579",
     "discord_id": "1406316947544477777",
-    "added_at": "2026-08-12T11:24:48.357088+00:00"
+    "added_at": "2026-08-12T11:24:48.357088+00:00",
+    "alliance": "TKD"
   },
   "91833822": {
     "name": "༻凤༒EDER༒鳳 ༺",
     "kid": "579",
     "discord_id": "1396447098450477066",
-    "added_at": "2026-07-26T08:02:26.463741+00:00"
+    "added_at": "2026-07-26T08:02:26.463741+00:00",
+    "alliance": "TKD"
   },
   "91555317": {
     "name": "FantAlakazam",
@@ -1239,7 +1294,8 @@
     "name": "gRayt1",
     "kid": "579",
     "discord_id": "1502872568124936376",
-    "added_at": "2026-08-11T12:28:02.307567+00:00"
+    "added_at": "2026-08-11T12:28:02.307567+00:00",
+    "alliance": "TKD"
   },
   "91588383": {
     "name": "Guiz",
@@ -1251,55 +1307,64 @@
     "name": "Shido",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "90883793": {
     "name": "#Roberto",
     "kid": "579",
     "discord_id": "1396447098450477066",
-    "added_at": "2026-07-26T08:11:05.621370+00:00"
+    "added_at": "2026-07-26T08:11:05.621370+00:00",
+    "alliance": "TKD"
   },
   "88687824": {
     "name": "Reese",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "92046868": {
-    "name": "[TKD]King Ragnar",
+    "name": "King Ragnar",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "88295111": {
-    "name": "[TKD]T1 Gelova",
+    "name": "Gelova",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "92161571": {
-    "name": "[TKD]Lektor",
+    "name": "Lektor",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "86223347": {
-    "name": "[TKD]sofakingwhat",
+    "name": "Captain Caveman",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "89261997": {
-    "name": "[TKD]El Predicator",
+    "name": "El Predicator",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-07-25T20:46:20.495672+00:00"
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD"
   },
   "85098401": {
     "name": "Cici",
     "kid": "579",
     "discord_id": "1432184821207142404",
-    "added_at": "2026-07-26T00:50:37.392038+00:00"
+    "added_at": "2026-07-26T00:50:37.392038+00:00",
+    "alliance": "TKD"
   },
   "115668898": {
     "name": "༻༒Vénus༒ ༺",
@@ -1314,10 +1379,11 @@
     "added_at": "2026-07-26T08:14:02.365274+00:00"
   },
   "91669964": {
-    "name": "[TKD]Bryan",
+    "name": "Bryan",
     "kid": "579",
     "discord_id": "263399964191883264",
-    "added_at": "2026-08-08T01:28:50.942059+00:00"
+    "added_at": "2026-08-08T01:28:50.942059+00:00",
+    "alliance": "TKD"
   },
   "103646994": {
     "name": "abc123def455",
@@ -1326,9 +1392,234 @@
     "added_at": "2026-08-09T03:34:50.031411+00:00"
   },
   "88162819": {
-    "name": "scarboziñoo",
+    "name": "scarbozo",
     "kid": "579",
     "discord_id": "300003307127046154",
-    "added_at": "2026-08-11T12:20:05.049853+00:00"
+    "added_at": "2026-08-11T12:20:05.049853+00:00",
+    "alliance": "TKD"
+  },
+  "88009297": {
+    "name": "Luck13985",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "88507912": {
+    "name": "MU沛褆菲",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "91686502": {
+    "name": "ᛋᛈᚨᚲᛖ ᚠᚨᚱᛗᛖᚱ",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "91309909": {
+    "name": "DraganCRO",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "91406978": {
+    "name": "Kenza",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "100633375": {
+    "name": "Snake78",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "99666404": {
+    "name": "TokenJoker",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "89294530": {
+    "name": "Raven00",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "89704134": {
+    "name": "ICONIC",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "89442165": {
+    "name": "Condemor",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "90458033": {
+    "name": "Spaceman",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "90653940": {
+    "name": "M ı s t",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "88671526": {
+    "name": "LuckyMan",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "101202536": {
+    "name": "Mags",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "91719423": {
+    "name": "Armando",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "92079999": {
+    "name": "kramyer911",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "96534335": {
+    "name": "Red tea",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "98360112": {
+    "name": "SpokieKS",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "90097095": {
+    "name": "Lord Dante",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "96710056": {
+    "name": "Arim",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "90342734": {
+    "name": "ADEM",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "99967011": {
+    "name": "Trina",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "89163466": {
+    "name": "Lena",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "123684725": {
+    "name": "Julina",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "92079558": {
+    "name": "Lord Gavin",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "91570257": {
+    "name": "manfred",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "90669383": {
+    "name": "SpeedRacer2k",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "91849435": {
+    "name": "시간여행자",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
   }
 }
