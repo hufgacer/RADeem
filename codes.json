@@ -228,5 +228,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "v4nyYrew4": {
+    "added_by": "scraper",
+    "added_at": "2026-08-25T14:46:41.581413+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
