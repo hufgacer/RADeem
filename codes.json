@@ -235,5 +235,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "CHILLWEEKEND": {
+    "added_by": "scraper",
+    "added_at": "2026-08-29T12:26:33.234858+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
