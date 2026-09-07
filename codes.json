@@ -249,5 +249,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "KS0907": {
+    "added_by": "scraper",
+    "added_at": "2026-09-07T06:26:48.915830+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
