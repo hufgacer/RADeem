@@ -1335,10 +1335,8 @@
   "89442165": {
     "name": "Condemor",
     "kid": "579",
-    "alliance": "TKD",
-    "discord_id": null,
-    "added_at": "2026-08-22T12:04:55.660817+00:00",
-    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+    "discord_id": "1442644209646571593",
+    "added_at": "2026-09-19T19:54:09.369913+00:00"
   },
   "90458033": {
     "name": "Spaceman",
