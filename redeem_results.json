@@ -20843,6 +20843,11 @@
       "status_class": "not_eligible",
       "raw_msg": "RECHARGE_MONEY ERROR",
       "timestamp": "2026-08-22T12:16:01.956084+00:00"
+    },
+    "106841445": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-19T19:44:36.038501+00:00"
     }
   },
   "KS0822": {
