@@ -316,5 +316,15 @@
     "alliance": "TKD",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-09-19T01:39:25.605562+00:00"
+  },
+  "88009297": {
+    "name": "Luck13985",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-09-19T01:39:44.069029+00:00"
   }
 }
