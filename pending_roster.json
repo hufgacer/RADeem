@@ -211,5 +211,14 @@
     "added_at": "2026-08-05T15:13:37.164472+00:00",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-09-19T01:31:25.385984+00:00"
+  },
+  "85442507": {
+    "name": "Hero",
+    "kid": "579",
+    "discord_id": "263399964191883264",
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-09-19T01:31:31.914340+00:00"
   }
 }
