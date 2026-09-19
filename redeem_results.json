@@ -25911,9 +25911,9 @@
       "timestamp": "2026-08-25T14:55:41.236724+00:00"
     },
     "89442165": {
-      "status_class": "already_redeemed",
-      "raw_msg": "USED",
-      "timestamp": "2026-08-25T14:55:41.236724+00:00"
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-19T19:54:53.643357+00:00"
     },
     "90458033": {
       "status_class": "already_redeemed",
