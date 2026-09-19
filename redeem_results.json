@@ -25934,6 +25934,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-08-25T14:56:03.950796+00:00"
+    },
+    "106841445": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-19T19:44:42.069409+00:00"
     }
   },
   "CHILLWEEKEND": {
