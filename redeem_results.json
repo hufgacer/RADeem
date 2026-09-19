@@ -28448,6 +28448,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-09-04T12:36:09.502197+00:00"
+    },
+    "106841445": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-19T19:44:48.010038+00:00"
     }
   },
   "KS0907": {
