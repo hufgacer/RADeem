@@ -203,5 +203,13 @@
     "alliance": "TKD",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-09-19T01:31:19.061235+00:00"
+  },
+  "88506838": {
+    "name": "Sg Star",
+    "kid": "579",
+    "discord_id": "1395981597475475498",
+    "added_at": "2026-08-05T15:13:37.164472+00:00",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-09-19T01:31:25.385984+00:00"
   }
 }
