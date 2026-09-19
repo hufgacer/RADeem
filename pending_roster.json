@@ -158,5 +158,14 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-07-26T15:45:22.262501+00:00"
+  },
+  "88949458": {
+    "name": "CrazyEve",
+    "kid": "579",
+    "discord_id": "1339270527717474407",
+    "added_at": "2026-08-04T22:19:05.292719+00:00",
+    "alliance": "TKD",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-09-19T01:30:44.714179+00:00"
   }
 }
