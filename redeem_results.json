@@ -25911,9 +25911,9 @@
       "timestamp": "2026-08-25T14:55:41.236724+00:00"
     },
     "89442165": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-19T19:54:53.643357+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-09-19T20:31:07.859549+00:00"
     },
     "90458033": {
       "status_class": "already_redeemed",
@@ -26006,14 +26006,14 @@
       "timestamp": "2026-08-25T14:56:03.950796+00:00"
     },
     "106841445": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-19T19:44:42.069409+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-09-19T20:31:07.859549+00:00"
     },
     "54758042": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-19T19:45:42.141405+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-09-19T20:31:07.859549+00:00"
     }
   },
   "CHILLWEEKEND": {
