@@ -20800,9 +20800,9 @@
       "timestamp": "2026-08-22T12:15:36.380907+00:00"
     },
     "89442165": {
-      "status_class": "not_eligible",
-      "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-08-22T12:15:36.380907+00:00"
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-19T19:54:48.234863+00:00"
     },
     "90458033": {
       "status_class": "not_eligible",
