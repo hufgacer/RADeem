@@ -32219,6 +32219,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-09-19T01:40:46.949768+00:00"
+    },
+    "106841445": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-09-19T19:44:57.070394+00:00"
     }
   }
 }
