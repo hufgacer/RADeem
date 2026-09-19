@@ -8988,6 +8988,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-08-22T12:22:40.023615+00:00"
+    },
+    "106841445": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-09-19T19:44:09.678836+00:00"
     }
   },
   "KS0803": {
