@@ -273,8 +273,10 @@
     "added_by": "scraper",
     "added_at": "2026-09-09T06:26:32.315245+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-09-19T20:31:28.717488+00:00"
   },
   "KS0919": {
     "added_by": "scraper",
