@@ -20800,9 +20800,9 @@
       "timestamp": "2026-08-22T12:15:36.380907+00:00"
     },
     "89442165": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-19T19:54:48.234863+00:00"
+      "status_class": "code_expired",
+      "raw_msg": "TIME ERROR",
+      "timestamp": "2026-09-19T20:30:53.293425+00:00"
     },
     "90458033": {
       "status_class": "not_eligible",
