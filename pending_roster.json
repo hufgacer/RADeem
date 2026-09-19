@@ -194,5 +194,14 @@
     "alliance": "TKD",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-09-19T01:31:14.695145+00:00"
+  },
+  "91062767": {
+    "name": "ExtremePrime",
+    "kid": "579",
+    "discord_id": "263399964191883264",
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "alliance": "TKD",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-09-19T01:31:19.061235+00:00"
   }
 }
