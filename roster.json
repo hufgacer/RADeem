@@ -1483,5 +1483,11 @@
     "discord_id": null,
     "added_at": "2026-08-22T12:04:55.660817+00:00",
     "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)"
+  },
+  "106841445": {
+    "name": "böb",
+    "kid": "671",
+    "discord_id": "853395771701592076",
+    "added_at": "2026-09-19T19:43:53.467893+00:00"
   }
 }
