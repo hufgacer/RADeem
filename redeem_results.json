@@ -15070,9 +15070,9 @@
       "timestamp": "2026-08-22T12:27:31.456893+00:00"
     },
     "89442165": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-19T19:54:37.923457+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-09-19T20:30:32.398522+00:00"
     },
     "90458033": {
       "status_class": "already_redeemed",
@@ -15165,14 +15165,14 @@
       "timestamp": "2026-08-22T12:28:00.435619+00:00"
     },
     "106841445": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-19T19:44:26.348771+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-09-19T20:30:32.398522+00:00"
     },
     "54758042": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-19T19:45:28.403708+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-09-19T20:30:32.398522+00:00"
     }
   },
   "HAPPYCATDAY": {
