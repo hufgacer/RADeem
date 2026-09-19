@@ -23373,9 +23373,9 @@
       "timestamp": "2026-08-22T12:29:47.729288+00:00"
     },
     "89442165": {
-      "status_class": "already_redeemed",
-      "raw_msg": "RECEIVED",
-      "timestamp": "2026-08-22T12:29:47.729288+00:00"
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-19T19:54:45.089297+00:00"
     },
     "90458033": {
       "status_class": "success",
