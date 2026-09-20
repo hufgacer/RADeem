@@ -24802,6 +24802,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-09-19T20:30:41.423742+00:00"
+    },
+    "88113943": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-20T00:00:40.094253+00:00"
     }
   },
   "v4nyYrew4": {
