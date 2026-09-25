@@ -34653,6 +34653,71 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-09-25T12:39:38.189719+00:00"
+    },
+    "90097095": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "96710056": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "90342734": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "99967011": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "89163466": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "123684725": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "92079558": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "91570257": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "90669383": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "91849435": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "106841445": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "54758042": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
+    },
+    "88113943": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-25T12:40:08.444233+00:00"
     }
   }
 }
