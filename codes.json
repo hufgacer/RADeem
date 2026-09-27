@@ -291,8 +291,10 @@
     "added_by": "scraper",
     "added_at": "2026-09-20T09:30:22.469123+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-09-27T13:31:07.587183+00:00"
   },
   "MIDAUTUMN26": {
     "added_by": "scraper",
