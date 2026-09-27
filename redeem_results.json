@@ -34943,6 +34943,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "RECEIVED",
       "timestamp": "2026-09-27T12:52:33.146182+00:00"
+    },
+    "109107615": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-27T13:00:19.248208+00:00"
     }
   },
   "EXPLORETHEWORLD": {
