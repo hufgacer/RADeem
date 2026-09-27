@@ -282,8 +282,10 @@
     "added_by": "scraper",
     "added_at": "2026-09-19T01:30:21.944740+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-09-27T13:31:01.514924+00:00"
   },
   "JPHolidaySEP": {
     "added_by": "scraper",
