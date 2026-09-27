@@ -34860,14 +34860,19 @@
       "timestamp": "2026-09-25T12:40:08.444233+00:00"
     },
     "66555427": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-27T12:39:25.983155+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-09-27T12:52:33.146182+00:00"
     },
     "91980060": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-09-27T12:51:52.985750+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-09-27T12:52:33.146182+00:00"
+    },
+    "66539718": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-09-27T12:52:33.146182+00:00"
     }
   },
   "EXPLORETHEWORLD": {
