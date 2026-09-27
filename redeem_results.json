@@ -36130,6 +36130,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "RECEIVED",
       "timestamp": "2026-09-27T12:52:04.364967+00:00"
+    },
+    "109107615": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-09-27T13:00:22.593384+00:00"
     }
   }
 }
