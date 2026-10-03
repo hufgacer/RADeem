@@ -1,0 +1,20 @@
+{
+  "code": "Community",
+  "summary": "Redeemed 0/1 | Too late 1/1 | Failed 0/1",
+  "counts": {
+    "players": 1,
+    "redeemed": 0,
+    "too_late": 1,
+    "failed": 0,
+    "not_eligible": 0,
+    "invalid_id": 0
+  },
+  "updated_at": "2026-10-03T11:48:49.955564+00:00",
+  "results": {
+    "77336214": {
+      "status_class": "code_expired",
+      "raw_msg": "CDK NOT FOUND",
+      "timestamp": "2026-08-22T11:26:29.449370+00:00"
+    }
+  }
+}
