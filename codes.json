@@ -35,8 +35,10 @@
     "added_by": "scraper",
     "added_at": "2026-07-30T12:21:20.144976+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "USED",
+    "expired_at": "2026-10-03T11:49:28.917653+00:00"
   },
   "X43Gxb246": {
     "added_by": "scraper",
