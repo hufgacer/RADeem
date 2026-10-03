@@ -1,15 +1,15 @@
 {
   "code": "Kingshot888",
-  "summary": "Redeemed 257/276 | Too late 0/276 | Failed 0/276 | Bad ID 19/276",
+  "summary": "Redeemed 258/277 | Too late 0/277 | Failed 0/277 | Bad ID 19/277",
   "counts": {
-    "players": 276,
-    "redeemed": 257,
+    "players": 277,
+    "redeemed": 258,
     "too_late": 0,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 19
   },
-  "updated_at": "2026-10-03T11:48:08.730277+00:00",
+  "updated_at": "2026-10-03T12:36:47.993819+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1390,6 +1390,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-09-27T12:59:28.606958+00:00"
+    },
+    "66539718": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-10-03T12:36:47.992814+00:00"
     }
   }
 }
