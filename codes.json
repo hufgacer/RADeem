@@ -336,6 +336,7 @@
     "added_by": "263399964191883264",
     "added_at": "2026-10-03T12:35:14.159301+00:00",
     "target_discord_ids": null,
-    "status": "active"
+    "status": "active",
+    "redeem_attempted": true
   }
 }
