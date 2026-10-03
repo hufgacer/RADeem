@@ -223,8 +223,10 @@
     "added_by": "scraper",
     "added_at": "2026-08-14T10:10:29.678954+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "USED",
+    "expired_at": "2026-10-03T11:49:37.928788+00:00"
   },
   "FB2500KT": {
     "added_by": "scraper",
