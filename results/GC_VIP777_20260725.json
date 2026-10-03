@@ -1,15 +1,15 @@
 {
   "code": "VIP777",
-  "summary": "Redeemed 256/256 | Too late 0/256 | Failed 0/256",
+  "summary": "Redeemed 257/257 | Too late 0/257 | Failed 0/257",
   "counts": {
-    "players": 256,
-    "redeemed": 256,
+    "players": 257,
+    "redeemed": 257,
     "too_late": 0,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-10-03T11:48:10.433481+00:00",
+  "updated_at": "2026-10-03T12:36:53.572671+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1290,6 +1290,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-09-27T12:59:33.566835+00:00"
+    },
+    "66539718": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-10-03T12:36:53.571639+00:00"
     }
   }
 }
