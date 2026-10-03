@@ -314,7 +314,9 @@
     "added_by": "scraper",
     "added_at": "2026-09-29T18:00:21.506731+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": false
+    "status": "expired",
+    "redeem_attempted": false,
+    "expired_reason": "USED",
+    "expired_at": "2026-10-03T11:40:41.179405+00:00"
   }
 }
