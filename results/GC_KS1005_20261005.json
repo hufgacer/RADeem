@@ -1,15 +1,15 @@
 {
   "code": "KS1005",
-  "summary": "Redeemed 40/40 | Too late 0/40 | Failed 0/40",
+  "summary": "Redeemed 60/60 | Too late 0/60 | Failed 0/60",
   "counts": {
-    "players": 40,
-    "redeemed": 40,
+    "players": 60,
+    "redeemed": 60,
     "too_late": 0,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-10-05T04:01:51.496728+00:00",
+  "updated_at": "2026-10-05T04:02:45.962233+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -210,6 +210,106 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-10-05T04:01:51.496728+00:00"
+    },
+    "88703588": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "91947829": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "89915866": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "78630486": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "77074095": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "78499468": {
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "85618649": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "75730393": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "90882063": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "91734887": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "77058049": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "89801499": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "91586772": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "77450932": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "89375254": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "91963581": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "77925853": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "89457057": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "76042129": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
+    },
+    "90555039": {
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-05T04:02:45.962233+00:00"
     }
   }
 }
