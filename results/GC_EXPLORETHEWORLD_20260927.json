@@ -1,15 +1,15 @@
 {
   "code": "EXPLORETHEWORLD",
-  "summary": "Redeemed 237/237 | Too late 0/237 | Failed 0/237",
+  "summary": "Redeemed 237/238 | Too late 1/238 | Failed 0/238",
   "counts": {
-    "players": 237,
+    "players": 238,
     "redeemed": 237,
-    "too_late": 0,
+    "too_late": 1,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-10-03T11:49:19.959889+00:00",
+  "updated_at": "2026-10-08T06:13:36.476111+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -1195,6 +1195,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-09-27T13:01:16.150977+00:00"
+    },
+    "90914898": {
+      "status_class": "code_expired",
+      "raw_msg": "TIME ERROR",
+      "timestamp": "2026-10-08T06:13:36.476111+00:00"
     }
   }
 }
