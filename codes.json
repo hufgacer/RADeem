@@ -347,8 +347,10 @@
     "added_by": "scraper",
     "added_at": "2026-10-05T04:00:07.626463+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-10-08T06:13:46.151750+00:00"
   },
   "WELLDONE": {
     "added_by": "scraper",
