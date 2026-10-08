@@ -322,8 +322,10 @@
     "added_by": "scraper",
     "added_at": "2026-09-25T12:30:21.733847+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-10-08T06:13:32.667126+00:00"
   },
   "EXPLORETHEWORLD": {
     "added_by": "scraper",
