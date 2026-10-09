@@ -358,5 +358,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "Hangul2026": {
+    "added_by": "scraper",
+    "added_at": "2026-10-09T08:00:07.340939+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
