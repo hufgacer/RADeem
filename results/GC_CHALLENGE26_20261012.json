@@ -1,15 +1,15 @@
 {
   "code": "CHALLENGE26",
-  "summary": "Redeemed 236/238 | Too late 0/238 | Failed 2/238",
+  "summary": "Redeemed 238/238 | Too late 0/238 | Failed 0/238",
   "counts": {
     "players": 238,
-    "redeemed": 236,
+    "redeemed": 238,
     "too_late": 0,
-    "failed": 2,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-10-12T09:39:55.750513+00:00",
+  "updated_at": "2026-10-12T10:30:12.796470+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -507,9 +507,9 @@
       "timestamp": "2026-10-12T09:34:16.510132+00:00"
     },
     "78041115": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-10-12T09:34:16.510132+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-12T10:30:12.796470+00:00"
     },
     "75943814": {
       "status_class": "success",
@@ -987,9 +987,9 @@
       "timestamp": "2026-10-12T09:38:25.862550+00:00"
     },
     "88295111": {
-      "status_class": "failed",
-      "raw_msg": "HTTP 429",
-      "timestamp": "2026-10-12T09:38:25.862550+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-12T10:30:12.796470+00:00"
     },
     "92161571": {
       "status_class": "success",
