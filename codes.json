@@ -365,5 +365,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "CHALLENGE26": {
+    "added_by": "scraper",
+    "added_at": "2026-10-12T09:30:08.721040+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
