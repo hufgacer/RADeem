@@ -386,5 +386,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "VIP1017": {
+    "added_by": "scraper",
+    "added_at": "2026-10-17T03:36:14.089221+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
