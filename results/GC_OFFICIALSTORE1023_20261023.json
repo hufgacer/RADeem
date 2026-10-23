@@ -1,15 +1,15 @@
 {
   "code": "OFFICIALSTORE1023",
-  "summary": "Redeemed 234/238 | Too late 0/238 | Failed 4/238",
+  "summary": "Redeemed 238/238 | Too late 0/238 | Failed 0/238",
   "counts": {
     "players": 238,
-    "redeemed": 234,
+    "redeemed": 238,
     "too_late": 0,
-    "failed": 4,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-10-23T12:20:25.322465+00:00",
+  "updated_at": "2026-10-23T12:38:57.132656+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -247,9 +247,9 @@
       "timestamp": "2026-10-23T12:12:01.831706+00:00"
     },
     "75730393": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-10-23T12:12:01.831706+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-23T12:38:57.132656+00:00"
     },
     "90882063": {
       "status_class": "success",
@@ -527,9 +527,9 @@
       "timestamp": "2026-10-23T12:14:52.014679+00:00"
     },
     "78974367": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-10-23T12:14:52.014679+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-23T12:38:57.132656+00:00"
     },
     "79237063": {
       "status_class": "success",
@@ -627,9 +627,9 @@
       "timestamp": "2026-10-23T12:16:10.606500+00:00"
     },
     "71503133": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-10-23T12:16:10.606500+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-23T12:38:57.132656+00:00"
     },
     "151825543": {
       "status_class": "success",
@@ -707,9 +707,9 @@
       "timestamp": "2026-10-23T12:16:10.606500+00:00"
     },
     "90800271": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-10-23T12:16:10.606500+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-10-23T12:38:57.132656+00:00"
     },
     "89981046": {
       "status_class": "success",
