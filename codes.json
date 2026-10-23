@@ -400,5 +400,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "OFFICIALSTORE1023": {
+    "added_by": "scraper",
+    "added_at": "2026-10-23T12:08:46.324058+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
