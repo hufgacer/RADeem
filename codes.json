@@ -414,5 +414,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "TREAT4U": {
+    "added_by": "scraper",
+    "added_at": "2026-10-31T12:19:07.143366+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
