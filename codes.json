@@ -745,8 +745,10 @@
     "added_by": "scraper",
     "added_at": "2026-11-02T13:49:06.482316+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": false
+    "status": "expired",
+    "redeem_attempted": false,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-02T14:33:55.693259+00:00"
   },
   "0706FORU": {
     "added_by": "scraper",
