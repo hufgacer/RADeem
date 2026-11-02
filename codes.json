@@ -867,7 +867,7 @@
     "added_at": "2026-11-02T13:49:06.482316+00:00",
     "target_discord_ids": null,
     "status": "expired",
-    "redeem_attempted": false,
+    "redeem_attempted": true,
     "expired_reason": "TIME ERROR",
     "expired_at": "2026-11-02T15:05:26.188050+00:00"
   },
