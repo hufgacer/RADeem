@@ -475,8 +475,10 @@
     "added_by": "scraper",
     "added_at": "2026-11-02T13:49:06.482316+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": false
+    "status": "expired",
+    "redeem_attempted": false,
+    "expired_reason": "CDK NOT FOUND",
+    "expired_at": "2026-11-02T13:59:08.288846+00:00"
   },
   "TGIFISBACK": {
     "added_by": "scraper",
