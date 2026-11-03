@@ -1148,8 +1148,10 @@
     "added_by": "scraper",
     "added_at": "2026-11-03T09:49:05.822018+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": false
+    "status": "expired",
+    "redeem_attempted": false,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-03T11:13:37.939398+00:00"
   },
   "9VqM2mMVq": {
     "added_by": "scraper",
