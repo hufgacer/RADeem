@@ -1363,7 +1363,7 @@
     "added_at": "2026-11-03T09:49:05.822018+00:00",
     "target_discord_ids": null,
     "status": "expired",
-    "redeem_attempted": false,
+    "redeem_attempted": true,
     "expired_reason": "TIME ERROR",
     "expired_at": "2026-11-03T11:13:47.004629+00:00"
   },
