@@ -1267,8 +1267,10 @@
     "added_by": "scraper",
     "added_at": "2026-11-03T09:49:05.822018+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": false
+    "status": "expired",
+    "redeem_attempted": false,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-03T10:44:48.482344+00:00"
   },
   "KS260213": {
     "added_by": "scraper",
