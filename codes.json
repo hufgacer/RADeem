@@ -1296,8 +1296,10 @@
     "added_by": "scraper",
     "added_at": "2026-11-03T09:49:05.822018+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": false
+    "status": "expired",
+    "redeem_attempted": false,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-03T10:45:28.333942+00:00"
   },
   "syunnbun26jp": {
     "added_by": "scraper",
