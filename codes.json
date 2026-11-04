@@ -1392,5 +1392,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "Gems": {
+    "added_by": "scraper",
+    "added_at": "2026-11-04T11:19:05.783711+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
