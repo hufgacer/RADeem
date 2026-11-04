@@ -1385,5 +1385,12 @@
     "redeem_attempted": true,
     "expired_reason": "TIME ERROR",
     "expired_at": "2026-11-03T10:55:06.292043+00:00"
+  },
+  "KS1104": {
+    "added_by": "scraper",
+    "added_at": "2026-11-04T06:19:05.956126+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
