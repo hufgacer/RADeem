@@ -1391,6 +1391,6 @@
     "added_at": "2026-11-04T06:19:05.956126+00:00",
     "target_discord_ids": null,
     "status": "active",
-    "redeem_attempted": false
+    "redeem_attempted": true
   }
 }
