@@ -1,15 +1,15 @@
 {
   "code": "FORTHEKINGDOM",
-  "summary": "Redeemed 237/238 | Too late 0/238 | Failed 1/238",
+  "summary": "Redeemed 238/238 | Too late 0/238 | Failed 0/238",
   "counts": {
     "players": 238,
-    "redeemed": 237,
+    "redeemed": 238,
     "too_late": 0,
-    "failed": 1,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-05T08:29:36.320287+00:00",
+  "updated_at": "2026-11-05T08:49:32.496869+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -967,9 +967,9 @@
       "timestamp": "2026-11-05T08:28:01.107797+00:00"
     },
     "90850610": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-11-05T08:28:01.107797+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-11-05T08:49:32.496869+00:00"
     },
     "90883793": {
       "status_class": "success",
