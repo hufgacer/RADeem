@@ -1401,5 +1401,12 @@
     "redeem_attempted": true,
     "expired_reason": "CDK NOT FOUND",
     "expired_at": "2026-11-04T11:19:15.736247+00:00"
+  },
+  "FORTHEKINGDOM": {
+    "added_by": "scraper",
+    "added_at": "2026-11-05T08:19:05.926992+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
