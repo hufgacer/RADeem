@@ -1,15 +1,15 @@
 {
   "code": "VIP1017",
-  "summary": "Redeemed 14/238 | Too late 0/238 | Failed 0/238 | Whale-only 224/238",
+  "summary": "Redeemed 14/238 | Too late 1/238 | Failed 0/238 | Whale-only 223/238",
   "counts": {
     "players": 238,
     "redeemed": 14,
-    "too_late": 0,
+    "too_late": 1,
     "failed": 0,
-    "not_eligible": 224,
+    "not_eligible": 223,
     "invalid_id": 0
   },
-  "updated_at": "2026-10-17T03:45:17.545808+00:00",
+  "updated_at": "2026-11-06T06:06:20.751571+00:00",
   "results": {
     "77336214": {
       "status_class": "not_eligible",
@@ -1172,9 +1172,9 @@
       "timestamp": "2026-10-17T03:45:17.544747+00:00"
     },
     "88113943": {
-      "status_class": "not_eligible",
-      "raw_msg": "RECHARGE_MONEY ERROR",
-      "timestamp": "2026-10-17T03:45:17.544747+00:00"
+      "status_class": "code_expired",
+      "raw_msg": "TIME ERROR",
+      "timestamp": "2026-11-06T06:06:20.751571+00:00"
     },
     "66555427": {
       "status_class": "not_eligible",
