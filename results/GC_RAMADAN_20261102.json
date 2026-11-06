@@ -1,15 +1,15 @@
 {
   "code": "RAMADAN",
-  "summary": "Redeemed 237/238 | Too late 0/238 | Failed 1/238",
+  "summary": "Redeemed 238/238 | Too late 0/238 | Failed 0/238",
   "counts": {
     "players": 238,
-    "redeemed": 237,
+    "redeemed": 238,
     "too_late": 0,
-    "failed": 1,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-06T06:06:40.896881+00:00",
+  "updated_at": "2026-11-06T07:04:28.060493+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1172,9 +1172,9 @@
       "timestamp": "2026-11-02T14:44:05.073165+00:00"
     },
     "88113943": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-11-06T06:06:40.896881+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-06T07:04:28.060493+00:00"
     },
     "66555427": {
       "status_class": "already_redeemed",
