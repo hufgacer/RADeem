@@ -385,8 +385,10 @@
     "added_by": "scraper",
     "added_at": "2026-10-13T04:30:07.366854+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-06T06:06:13.061408+00:00"
   },
   "KS1017": {
     "added_by": "scraper",
