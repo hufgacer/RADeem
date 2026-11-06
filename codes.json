@@ -428,8 +428,10 @@
     "added_by": "scraper",
     "added_at": "2026-10-25T11:40:54.373562+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-06T07:04:12.214353+00:00"
   },
   "TREAT4U": {
     "added_by": "scraper",
