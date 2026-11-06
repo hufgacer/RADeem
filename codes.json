@@ -367,8 +367,10 @@
     "added_by": "scraper",
     "added_at": "2026-10-09T08:00:07.340939+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-06T06:06:03.126986+00:00"
   },
   "CHALLENGE26": {
     "added_by": "scraper",
