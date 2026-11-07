@@ -9,7 +9,7 @@
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-06T06:07:49.935854+00:00",
+  "updated_at": "2026-11-07T20:52:03.948225+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -897,9 +897,9 @@
       "timestamp": "2026-11-05T08:26:52.398523+00:00"
     },
     "226909535": {
-      "status_class": "success",
-      "raw_msg": "SUCCESS",
-      "timestamp": "2026-11-05T08:26:52.398523+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-11-07T20:52:03.948225+00:00"
     },
     "191068318": {
       "status_class": "success",
