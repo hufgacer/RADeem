@@ -1412,8 +1412,10 @@
     "added_by": "scraper",
     "added_at": "2026-11-04T06:19:05.956126+00:00",
     "target_discord_ids": null,
-    "status": "active",
-    "redeem_attempted": true
+    "status": "expired",
+    "redeem_attempted": true,
+    "expired_reason": "TIME ERROR",
+    "expired_at": "2026-11-07T20:52:00.706748+00:00"
   },
   "Gems": {
     "added_by": "scraper",
