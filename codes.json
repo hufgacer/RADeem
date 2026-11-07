@@ -1415,7 +1415,7 @@
     "status": "expired",
     "redeem_attempted": true,
     "expired_reason": "TIME ERROR",
-    "expired_at": "2026-11-07T20:52:00.706748+00:00"
+    "expired_at": "2026-11-07T20:53:05.112842+00:00"
   },
   "Gems": {
     "added_by": "scraper",
