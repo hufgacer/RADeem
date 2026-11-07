@@ -9,7 +9,7 @@
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-07T20:50:45.265608+00:00",
+  "updated_at": "2026-11-07T20:51:51.147842+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -37,9 +37,9 @@
       "timestamp": "2026-08-08T03:44:23.459345+00:00"
     },
     "89227463": {
-      "status_class": "already_redeemed",
-      "raw_msg": "RECEIVED",
-      "timestamp": "2026-07-25T20:41:22.930469+00:00"
+      "status_class": "success",
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-11-07T20:51:51.147842+00:00"
     },
     "89147224": {
       "status_class": "success",
