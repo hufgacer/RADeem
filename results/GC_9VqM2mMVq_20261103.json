@@ -1,15 +1,15 @@
 {
   "code": "9VqM2mMVq",
-  "summary": "Redeemed 234/238 | Too late 0/238 | Failed 4/238",
+  "summary": "Redeemed 238/238 | Too late 0/238 | Failed 0/238",
   "counts": {
     "players": 238,
-    "redeemed": 234,
+    "redeemed": 238,
     "too_late": 0,
-    "failed": 4,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-07T20:56:46.504574+00:00",
+  "updated_at": "2026-11-07T21:50:28.567151+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -27,9 +27,9 @@
       "timestamp": "2026-11-03T10:27:08.224891+00:00"
     },
     "89227463": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-11-07T20:52:21.099353+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-07T21:50:28.567151+00:00"
     },
     "89147224": {
       "status_class": "already_redeemed",
@@ -862,9 +862,9 @@
       "timestamp": "2026-11-03T10:33:15.311030+00:00"
     },
     "89097043": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-11-07T20:56:46.504574+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-07T21:50:28.567151+00:00"
     },
     "97873445": {
       "status_class": "already_redeemed",
@@ -897,9 +897,9 @@
       "timestamp": "2026-11-03T10:33:15.311030+00:00"
     },
     "226909535": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-11-07T20:51:15.955224+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-07T21:50:28.567151+00:00"
     },
     "191068318": {
       "status_class": "already_redeemed",
@@ -947,9 +947,9 @@
       "timestamp": "2026-11-03T10:33:56.680016+00:00"
     },
     "91833822": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-11-07T20:54:21.131857+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-07T21:50:28.567151+00:00"
     },
     "91555317": {
       "status_class": "already_redeemed",
