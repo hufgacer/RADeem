@@ -1,15 +1,15 @@
 {
   "code": "TGIF1016",
-  "summary": "Redeemed 238/238 | Too late 0/238 | Failed 0/238",
+  "summary": "Redeemed 239/239 | Too late 0/239 | Failed 0/239",
   "counts": {
-    "players": 238,
-    "redeemed": 238,
+    "players": 239,
+    "redeemed": 239,
     "too_late": 0,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T08:39:01.753936+00:00",
+  "updated_at": "2026-11-08T08:40:13.590931+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1200,6 +1200,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-11-02T15:03:40.592423+00:00"
+    },
+    "65703843": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-08T08:40:13.590931+00:00"
     }
   }
 }
