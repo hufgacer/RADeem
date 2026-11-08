@@ -9,7 +9,7 @@
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T09:18:43.700389+00:00",
+  "updated_at": "2026-11-08T09:18:42.155107+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -29,7 +29,7 @@
     "89227463": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-11-08T09:18:43.700389+00:00"
+      "timestamp": "2026-11-07T20:51:53.865753+00:00"
     },
     "89147224": {
       "status_class": "already_redeemed",
@@ -629,7 +629,7 @@
     "71503133": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-10-03T12:42:07.246118+00:00"
+      "timestamp": "2026-11-08T09:18:42.155107+00:00"
     },
     "151825543": {
       "status_class": "already_redeemed",
