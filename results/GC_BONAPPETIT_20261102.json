@@ -1,15 +1,15 @@
 {
   "code": "BONAPPETIT",
-  "summary": "Redeemed 242/242 | Too late 0/242 | Failed 0/242",
+  "summary": "Redeemed 243/243 | Too late 0/243 | Failed 0/243",
   "counts": {
-    "players": 242,
-    "redeemed": 242,
+    "players": 243,
+    "redeemed": 243,
     "too_late": 0,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T09:19:47.194843+00:00",
+  "updated_at": "2026-11-08T14:14:13.114147+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1220,6 +1220,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-11-08T09:19:47.194843+00:00"
+    },
+    "77863577": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-08T14:14:13.114147+00:00"
     }
   }
 }
