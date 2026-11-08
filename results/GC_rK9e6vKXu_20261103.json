@@ -1,15 +1,15 @@
 {
   "code": "rK9e6vKXu",
-  "summary": "Redeemed 237/238 | Too late 0/238 | Failed 1/238",
+  "summary": "Redeemed 238/239 | Too late 0/239 | Failed 1/239",
   "counts": {
-    "players": 238,
-    "redeemed": 237,
+    "players": 239,
+    "redeemed": 238,
     "too_late": 0,
     "failed": 1,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T08:39:38.242269+00:00",
+  "updated_at": "2026-11-08T08:40:51.325957+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1200,6 +1200,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "USED",
       "timestamp": "2026-11-03T11:50:53.958422+00:00"
+    },
+    "65703843": {
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-08T08:40:51.325957+00:00"
     }
   }
 }
