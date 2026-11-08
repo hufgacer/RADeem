@@ -9,7 +9,7 @@
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T09:18:03.749216+00:00",
+  "updated_at": "2026-11-08T09:20:07.267646+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -909,7 +909,7 @@
     "84404558": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-11-03T11:11:11.241047+00:00"
+      "timestamp": "2026-11-08T09:20:07.267646+00:00"
     },
     "91719591": {
       "status_class": "already_redeemed",
