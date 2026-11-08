@@ -1,15 +1,15 @@
 {
   "code": "KS0524",
-  "summary": "Redeemed 240/241 | Too late 0/241 | Failed 1/241",
+  "summary": "Redeemed 241/241 | Too late 0/241 | Failed 0/241",
   "counts": {
     "players": 241,
-    "redeemed": 240,
+    "redeemed": 241,
     "too_late": 0,
-    "failed": 1,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T14:14:52.360033+00:00",
+  "updated_at": "2026-11-08T14:50:56.656690+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1212,9 +1212,9 @@
       "timestamp": "2026-11-08T09:16:35.160183+00:00"
     },
     "77863577": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-11-08T14:14:52.360033+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "USED",
+      "timestamp": "2026-11-08T14:50:56.656690+00:00"
     }
   }
 }
