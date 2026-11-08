@@ -1,15 +1,15 @@
 {
   "code": "VIP777",
-  "summary": "Redeemed 261/261 | Too late 0/261 | Failed 0/261",
+  "summary": "Redeemed 262/262 | Too late 0/262 | Failed 0/262",
   "counts": {
-    "players": 261,
-    "redeemed": 261,
+    "players": 262,
+    "redeemed": 262,
     "too_late": 0,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T09:21:19.036100+00:00",
+  "updated_at": "2026-11-08T14:14:00.221982+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -1315,6 +1315,11 @@
       "status_class": "already_redeemed",
       "raw_msg": "RECEIVED",
       "timestamp": "2026-11-08T09:18:48.741933+00:00"
+    },
+    "77863577": {
+      "status_class": "success",
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-11-08T14:14:00.221982+00:00"
     }
   }
 }
