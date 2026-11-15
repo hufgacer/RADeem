@@ -1,15 +1,15 @@
 {
   "code": "11OFFICIALSTORE08",
-  "summary": "Redeemed 243/243 | Too late 0/243 | Failed 0/243",
+  "summary": "Redeemed 242/243 | Too late 1/243 | Failed 0/243",
   "counts": {
     "players": 243,
-    "redeemed": 243,
-    "too_late": 0,
+    "redeemed": 242,
+    "too_late": 1,
     "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T14:15:19.893520+00:00",
+  "updated_at": "2026-11-15T18:29:27.683131+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -647,9 +647,9 @@
       "timestamp": "2026-11-08T12:27:03.769346+00:00"
     },
     "89606538": {
-      "status_class": "success",
-      "raw_msg": "SUCCESS",
-      "timestamp": "2026-11-08T12:27:03.769346+00:00"
+      "status_class": "code_expired",
+      "raw_msg": "TIME ERROR",
+      "timestamp": "2026-11-15T18:29:27.682020+00:00"
     },
     "104611839": {
       "status_class": "success",
