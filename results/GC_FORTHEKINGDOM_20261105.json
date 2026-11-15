@@ -9,7 +9,7 @@
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-08T14:15:16.983440+00:00",
+  "updated_at": "2026-11-15T18:29:24.948195+00:00",
   "results": {
     "77336214": {
       "status_class": "success",
@@ -648,8 +648,8 @@
     },
     "89606538": {
       "status_class": "success",
-      "raw_msg": "SUCCESS",
-      "timestamp": "2026-11-05T08:25:23.335073+00:00"
+      "raw_msg": "SAME TYPE EXCHANGE",
+      "timestamp": "2026-11-15T18:29:24.948195+00:00"
     },
     "104611839": {
       "status_class": "success",
