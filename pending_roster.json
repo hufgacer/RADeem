@@ -336,5 +336,14 @@
     "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-09-19T01:39:53.935023+00:00"
+  },
+  "77336214": {
+    "name": "RadSaw デ pewpew",
+    "kid": "579",
+    "discord_id": "263399964191883264",
+    "added_at": "2026-07-25T20:18:12.104708+00:00",
+    "alliance": "TKD",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-11-20T23:57:28.454113+00:00"
   }
 }
