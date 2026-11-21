@@ -537,5 +537,13 @@
     "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-11-21T00:05:36.632282+00:00"
+  },
+  "54758042": {
+    "name": "IlIlIlIlIlIlIlIl",
+    "kid": "579",
+    "discord_id": "853395771701592076",
+    "added_at": "2026-09-19T19:44:56.796400+00:00",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-11-21T00:06:26.978292+00:00"
   }
 }
