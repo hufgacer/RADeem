@@ -527,5 +527,15 @@
     "added_at": "2026-07-25T20:46:20.495672+00:00",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-11-21T00:04:30.966201+00:00"
+  },
+  "91309909": {
+    "name": "DraganCRO",
+    "kid": "579",
+    "alliance": "TKD",
+    "discord_id": null,
+    "added_at": "2026-08-22T12:04:55.660817+00:00",
+    "note": "API-populated via /alliance_register — no linked Discord account (can't @mention or use /myresults)",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-11-21T00:05:36.632282+00:00"
   }
 }
