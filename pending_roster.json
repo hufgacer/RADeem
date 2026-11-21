@@ -486,5 +486,13 @@
     "alliance": "TKD",
     "benched_reason": "USER INFO ERROR",
     "benched_at": "2026-11-21T00:02:40.828379+00:00"
+  },
+  "187143368": {
+    "name": "Warwoman",
+    "kid": "568",
+    "discord_id": "263399964191883264",
+    "added_at": "2026-07-25T20:46:20.495672+00:00",
+    "benched_reason": "USER INFO ERROR",
+    "benched_at": "2026-11-21T00:02:53.732240+00:00"
   }
 }
