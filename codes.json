@@ -1462,5 +1462,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "Bw8Qk3E4j": {
+    "added_by": "scraper",
+    "added_at": "2026-11-22T12:27:08.876725+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
