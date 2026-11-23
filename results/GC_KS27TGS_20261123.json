@@ -1,15 +1,15 @@
 {
   "code": "KS27TGS",
-  "summary": "Redeemed 216/219 | Too late 0/219 | Failed 3/219",
+  "summary": "Redeemed 219/219 | Too late 0/219 | Failed 0/219",
   "counts": {
     "players": 219,
-    "redeemed": 216,
+    "redeemed": 219,
     "too_late": 0,
-    "failed": 3,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-23T11:09:05.255706+00:00",
+  "updated_at": "2026-11-23T11:58:32.455421+00:00",
   "results": {
     "76402332": {
       "status_class": "success",
@@ -327,9 +327,9 @@
       "timestamp": "2026-11-23T11:01:07.037952+00:00"
     },
     "79515401": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-11-23T11:01:07.037952+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-11-23T11:58:32.454436+00:00"
     },
     "76025895": {
       "status_class": "success",
@@ -517,9 +517,9 @@
       "timestamp": "2026-11-23T11:02:56.155747+00:00"
     },
     "74714037": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-11-23T11:02:56.155747+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-11-23T11:58:32.454436+00:00"
     },
     "71961923": {
       "status_class": "success",
@@ -1102,9 +1102,9 @@
       "timestamp": "2026-11-23T11:07:17.730009+00:00"
     },
     "131748637": {
-      "status_class": "failed",
-      "raw_msg": "TOO FREQUENT",
-      "timestamp": "2026-11-23T11:09:05.255706+00:00"
+      "status_class": "already_redeemed",
+      "raw_msg": "RECEIVED",
+      "timestamp": "2026-11-23T11:58:32.454436+00:00"
     }
   }
 }
