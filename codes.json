@@ -1476,5 +1476,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "THANKS4WORK": {
+    "added_by": "scraper",
+    "added_at": "2026-11-23T09:57:08.896223+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
