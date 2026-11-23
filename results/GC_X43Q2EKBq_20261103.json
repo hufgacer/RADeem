@@ -9,7 +9,7 @@
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-18T12:28:34.787130+00:00",
+  "updated_at": "2026-11-23T11:08:29.758246+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -854,7 +854,7 @@
     "131748637": {
       "status_class": "already_redeemed",
       "raw_msg": "USED",
-      "timestamp": "2026-11-03T11:20:38.310158+00:00"
+      "timestamp": "2026-11-23T11:08:29.756978+00:00"
     },
     "260433665": {
       "status_class": "already_redeemed",
