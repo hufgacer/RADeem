@@ -1,15 +1,15 @@
 {
   "code": "847EadKex",
-  "summary": "Redeemed 242/242 | Too late 0/242 | Failed 0/242",
+  "summary": "Redeemed 241/242 | Too late 0/242 | Failed 1/242",
   "counts": {
     "players": 242,
-    "redeemed": 242,
+    "redeemed": 241,
     "too_late": 0,
-    "failed": 0,
+    "failed": 1,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-18T12:57:41.730799+00:00",
+  "updated_at": "2026-11-23T11:08:13.578988+00:00",
   "results": {
     "77336214": {
       "status_class": "already_redeemed",
@@ -852,9 +852,9 @@
       "timestamp": "2026-11-03T10:14:37.995058+00:00"
     },
     "131748637": {
-      "status_class": "already_redeemed",
-      "raw_msg": "USED",
-      "timestamp": "2026-11-03T10:14:37.995058+00:00"
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-11-23T11:08:13.577986+00:00"
     },
     "260433665": {
       "status_class": "already_redeemed",
