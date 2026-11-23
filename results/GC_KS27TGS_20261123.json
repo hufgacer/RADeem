@@ -1,15 +1,15 @@
 {
   "code": "KS27TGS",
-  "summary": "Redeemed 216/218 | Too late 0/218 | Failed 2/218",
+  "summary": "Redeemed 216/219 | Too late 0/219 | Failed 3/219",
   "counts": {
-    "players": 218,
+    "players": 219,
     "redeemed": 216,
     "too_late": 0,
-    "failed": 2,
+    "failed": 3,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-23T11:07:17.730009+00:00",
+  "updated_at": "2026-11-23T11:09:05.255706+00:00",
   "results": {
     "76402332": {
       "status_class": "success",
@@ -1100,6 +1100,11 @@
       "status_class": "success",
       "raw_msg": "SUCCESS",
       "timestamp": "2026-11-23T11:07:17.730009+00:00"
+    },
+    "131748637": {
+      "status_class": "failed",
+      "raw_msg": "TOO FREQUENT",
+      "timestamp": "2026-11-23T11:09:05.255706+00:00"
     }
   }
 }
