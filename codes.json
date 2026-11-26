@@ -1490,5 +1490,12 @@
     "target_discord_ids": null,
     "status": "active",
     "redeem_attempted": true
+  },
+  "GOBBLE": {
+    "added_by": "scraper",
+    "added_at": "2026-11-26T12:27:09.360781+00:00",
+    "target_discord_ids": null,
+    "status": "active",
+    "redeem_attempted": false
   }
 }
