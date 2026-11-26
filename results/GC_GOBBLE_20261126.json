@@ -1,15 +1,15 @@
 {
   "code": "GOBBLE",
-  "summary": "Redeemed 218/219 | Too late 0/219 | Failed 1/219",
+  "summary": "Redeemed 219/219 | Too late 0/219 | Failed 0/219",
   "counts": {
     "players": 219,
-    "redeemed": 218,
+    "redeemed": 219,
     "too_late": 0,
-    "failed": 1,
+    "failed": 0,
     "not_eligible": 0,
     "invalid_id": 0
   },
-  "updated_at": "2026-11-26T12:36:42.897866+00:00",
+  "updated_at": "2026-11-26T12:57:35.767481+00:00",
   "results": {
     "76402332": {
       "status_class": "success",
@@ -472,9 +472,9 @@
       "timestamp": "2026-11-26T12:31:42.717850+00:00"
     },
     "77762473": {
-      "status_class": "failed",
-      "raw_msg": "TIMEOUT RETRY",
-      "timestamp": "2026-11-26T12:31:42.717850+00:00"
+      "status_class": "success",
+      "raw_msg": "SUCCESS",
+      "timestamp": "2026-11-26T12:57:35.767481+00:00"
     },
     "78925795": {
       "status_class": "success",
